@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data+Science+Practitioner;React+Lover+%7C+Flask+Developer;Always+learning+new+things...&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data+Science+Practitioner;Always+learning+new+things...&center=true&width=500&height=30">
 </p>
 
 ---
